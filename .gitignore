@@ -1,0 +1,7 @@
+# ignoramos algunos archivos.
+dam*
+*out
+*jpg
+*png
+*bmp
+*gif
