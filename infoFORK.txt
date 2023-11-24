@@ -1,0 +1,5 @@
+Autores de la modificacion del repositorio:
+ - Nombre: Hector Santandreu
+ - Usuario GitHub: hetorSM
+ - Correo: hectorsm20001@gmail.com
+ - Modificacion: Hacer un FORK
